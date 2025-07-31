@@ -1,6 +1,7 @@
 # 🔌 Digital Sensor Add-on for EDGE FPGA Kit
 
-This repository contains Verilog implementations for **Ultrasonic Distance Measurement** and **Capacitive Touch Detection** on the **Edge Artix-7 FPGA Kit**. Both projects are ready-to-run on hardware — simply generate the bitstream in Vivado and program the board.
+This repository contains Verilog implementations for **Ultrasonic Distance Measurement** and **Capacitive Touch Detection** on the **EDGE Artix-7 FPGA Kit**.  
+Both projects are ready-to-run on hardware — simply generate the bitstream in Vivado and program the board.
 
 ---
 
@@ -17,7 +18,7 @@ This repository contains Verilog implementations for **Ultrasonic Distance Measu
 ## 📂 Repository Structure
 Digital-Sensor-Addon-EDGE-FPGA/
 ├── ultrasonic_sensor/
-│ ├── ultrasonic_sensor.v # Verilog code 
+│ ├── ultrasonic_sensor.v # Verilog code
 │ ├── simulation_results.png # Vivado simulation screenshot
 │ └── README.md # Project-specific instructions
 ├── touch_sensor/
@@ -77,14 +78,14 @@ The `combined_demo_video.mp4` includes:
 ## 🚀 How to Run
 1. Open Vivado and create a new project.
 2. Add the `.v` source file from either `ultrasonic_sensor/` or `touch_sensor/`.
-3. Run **Synthesis**.
-4. Run **Implementation**.
-5. Generate **Bitstream**.
+3. **Run Synthesis**.
+4. **Run Implementation**.
+5. **Generate Bitstream**.
 6. Open **Hardware Manager** and connect to the board.
 7. Program the FPGA board with the generated bitstream.
 8. Connect the respective sensor and observe outputs.
 
-Alternatively, extract and open the provided **FPGA_Digital_Sensor_Addon.zip** in Vivado, then follow steps 3–8.
+💡 **Tip:** You can extract and open the provided **FPGA_Digital_Sensor_Addon.zip** in Vivado, then follow steps 3–8.
 
 ---
 
