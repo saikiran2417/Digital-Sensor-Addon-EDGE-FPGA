@@ -70,7 +70,7 @@ The `combined_demo_video.mp4` includes:
 1. Verilog code explanation (screen recording)
 2. Vivado simulation output
 3. Real FPGA hardware running with sensors
-
+▶ Watch Demonstration Video on Google Drive
 ---
 
 ## 🚀 How to Run
