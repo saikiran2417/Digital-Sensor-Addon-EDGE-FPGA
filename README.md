@@ -20,7 +20,7 @@ Both projects are ready-to-run on hardware — simply generate the bitstream in 
 Digital-Sensor-Addon-EDGE-FPGA/
 ├── ultrasonic_sensor/
 │   ├── ultrasonic_sensor.v           # Verilog code
-│   ├── simulation_results.png         # Vivado simulation screenshot
+│   ├── simulation_results.png        # Vivado simulation screenshot
 │   └── README.md                      # Project-specific instructions
 ├── touch_sensor/
 │   ├── touch_sensor.v                 # Verilog code
@@ -32,6 +32,7 @@ Digital-Sensor-Addon-EDGE-FPGA/
 ├── combined_demo_video.mp4            # Code explanation + real hardware output
 ├── FPGA_Digital_Sensor_Addon.zip      # Complete project files for direct Vivado import
 └── README.md                          # Main repo README
+```
 
 
 ---
