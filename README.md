@@ -66,11 +66,13 @@ Digital-Sensor-Addon-EDGE-FPGA/
 ---
 
 ## 🎥 Demonstration
-The `combined_demo_video.mp4` includes:
+The demonstration video includes:
 1. Verilog code explanation (screen recording)
-2. Vivado simulation output
-3. Real FPGA hardware running with sensors
-▶ Watch Demonstration Video on Google Drive
+2. Vivado synthesis & implementation steps
+3. Real FPGA hardware running Ultrasonic Sensor & Touch Sensor
+
+▶ [**Watch Demonstration Video on Google Drive**](https://drive.google.com/file/d/1iogIJczCeQzhIV_uA40R7EFN4Uv6it_O/view?usp=share_link)
+
 ---
 
 ## 🚀 How to Run
